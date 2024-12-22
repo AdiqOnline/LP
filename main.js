@@ -1,4 +1,5 @@
 
+// console.log(document.title)
 document.title = 'mushaddiq'
 
 const product = [
