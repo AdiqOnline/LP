@@ -12,11 +12,7 @@ body{
 .body{
     margin-top: 5px;
 }
-/* .container{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-} */
+
 .sidebar{
     width: 25%;
     border: apx solid #eee;
@@ -91,8 +87,6 @@ input{
     padding: 15px;
     box-shadow: 0px 0px 3px grey;
     border: apx solid #eee;
-   
-  
 }
 .header{
     height: 100px;
